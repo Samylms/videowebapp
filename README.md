@@ -1,4 +1,4 @@
-# videowebapp
+# Chat app
 Sample web chat application, made with Ajax, JavaScript, HTML, PHP and SQL. Chat with the group or one person
 
 # Screen 1
